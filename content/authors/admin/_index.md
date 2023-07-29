@@ -22,7 +22,7 @@ organizations:
     url: https://www.sanofi.com/en
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include genomics, transcriptomics and structural biology methods for improved characterization of vaccine-related samples.
 
 # Interests to show in About widget
 interests:
